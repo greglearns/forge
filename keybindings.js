@@ -188,8 +188,8 @@ var Keybindings = GObject.registerClass(
               mode: "float",
               x: "center",
               y: "center",
-              width: 0.65,
-              height: 0.75,
+              width: 1.0,
+              height: 0.95,
             },
           ];
           actions.forEach((action) => {
